@@ -5,8 +5,8 @@ as propriedades básicas da linguagem de estilização, além de trabalhar com a
 
 [Clique aqui](https://github.com/IronioPereiraCost/trilha-css-proj-desafio-01.git) para acessar o resultado final da Landing Page criada a partir do desafio!
 
-![image](http://127.0.0.1:5500/index.html)
-
+![](http://127.0.0.1:5500/index.html)
+[image](http://127.0.0.1:5500/index.html)
 Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
 Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
 realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
