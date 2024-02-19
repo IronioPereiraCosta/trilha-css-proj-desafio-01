@@ -3,9 +3,9 @@
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
 
-[Clique aqui](https://github.com/IronioPereiraCostagithub.com/trilha-css-proj-desafio-01.git) para acessar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui](https://github.com/IronioPereiraCost/trilha-css-proj-desafio-01.git) para acessar o resultado final da Landing Page criada a partir do desafio!
 
-![image](http://127.0.0.1:5500/assets/css/logo%20(3).png)
+![image](http://127.0.0.1:5500/index.html)
 
 Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
 Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
